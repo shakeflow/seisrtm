@@ -1,0 +1,5 @@
+name: seisrtm
+channels:
+  - conda-forge
+dependencies:
+  - numpy
