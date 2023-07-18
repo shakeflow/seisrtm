@@ -1,10 +1,11 @@
 [tool.poetry]
 name = "seisrtm"
-version = "0.0.1"
+version = "0.0.2"
 description = "Reverse time migration"
 authors = ["OUCyf <oucyinfu@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
+include = ["seisrtm/**/*.py", "pyproject.toml"]
 classifiers = [
         "Development Status :: 2 - Pre-Alpha",
         "Environment :: Console",
