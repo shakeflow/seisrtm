@@ -1,0 +1,15 @@
+:py:mod:`seisrtm.tests`
+=======================
+
+.. py:module:: seisrtm.tests
+
+
+Subpackages
+-----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 3
+
+   test_config/index.rst
+
+

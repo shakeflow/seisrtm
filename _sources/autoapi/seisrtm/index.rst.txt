@@ -1,0 +1,16 @@
+:py:mod:`seisrtm`
+=================
+
+.. py:module:: seisrtm
+
+
+Subpackages
+-----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 3
+
+   config/index.rst
+   tests/index.rst
+
+
